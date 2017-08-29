@@ -1,0 +1,25 @@
+{
+  "name": "template_node_server",
+  "version": "1.0.0",
+  "description": "NodeJs template server",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meellon/template.web.nodeServer.git"
+  },
+  "keywords": [
+    "node",
+    "web",
+    "server",
+    "template"
+  ],
+  "author": "[Eden.Jin] eden.meellon@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meellon/template.web.nodeServer/issues"
+  },
+  "homepage": "https://github.com/meellon/template.web.nodeServer#readme"
+}
