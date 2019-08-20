@@ -1,3 +1,5 @@
 {
-  "port": 3010
+  "env" : "development",
+  "port": 3010,
+  "logLevel": "debug"
 }
